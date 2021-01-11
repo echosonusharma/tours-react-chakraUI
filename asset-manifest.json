@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/tours-react-chakraUI/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/tours-react-chakraUI/static/js/main.5cdc03df.chunk.js",
-    "main.js.map": "/tours-react-chakraUI/static/js/main.5cdc03df.chunk.js.map",
+    "main.js": "/tours-react-chakraUI/static/js/main.40010f6c.chunk.js",
+    "main.js.map": "/tours-react-chakraUI/static/js/main.40010f6c.chunk.js.map",
     "runtime-main.js": "/tours-react-chakraUI/static/js/runtime-main.fa1b1071.js",
     "runtime-main.js.map": "/tours-react-chakraUI/static/js/runtime-main.fa1b1071.js.map",
-    "static/js/2.673b6fa7.chunk.js": "/tours-react-chakraUI/static/js/2.673b6fa7.chunk.js",
-    "static/js/2.673b6fa7.chunk.js.map": "/tours-react-chakraUI/static/js/2.673b6fa7.chunk.js.map",
+    "static/js/2.d381bc3d.chunk.js": "/tours-react-chakraUI/static/js/2.d381bc3d.chunk.js",
+    "static/js/2.d381bc3d.chunk.js.map": "/tours-react-chakraUI/static/js/2.d381bc3d.chunk.js.map",
     "index.html": "/tours-react-chakraUI/index.html",
     "static/css/main.2ae47eeb.chunk.css.map": "/tours-react-chakraUI/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.673b6fa7.chunk.js.LICENSE.txt": "/tours-react-chakraUI/static/js/2.673b6fa7.chunk.js.LICENSE.txt"
+    "static/js/2.d381bc3d.chunk.js.LICENSE.txt": "/tours-react-chakraUI/static/js/2.d381bc3d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa1b1071.js",
-    "static/js/2.673b6fa7.chunk.js",
+    "static/js/2.d381bc3d.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.5cdc03df.chunk.js"
+    "static/js/main.40010f6c.chunk.js"
   ]
 }
