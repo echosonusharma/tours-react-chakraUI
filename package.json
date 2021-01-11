@@ -1,7 +1,9 @@
 {
   "name": "chakra-react-tours",
   "version": "0.1.0",
+  "main": "index.html",
   "private": true,
+  "homepage": "https://echosonusharma.github.io/tours-react-chakraUI",
   "dependencies": {
     "@chakra-ui/react": "^1.1.1",
     "@emotion/react": "^11.1.4",
@@ -19,6 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
